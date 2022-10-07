@@ -7,3 +7,6 @@ Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (supon
 A fórmula para calcular a área de um triângulo a partir das medidas de seus lados a, b e c é a seguinte (fórmula de Heron):
 
 ![image](https://user-images.githubusercontent.com/11077068/194550223-5e351765-10cf-4536-8b7f-a88bd8cb9987.png)
+
+
+Instrutor:  [Nelio Alves](https://github.com/acenelio)
